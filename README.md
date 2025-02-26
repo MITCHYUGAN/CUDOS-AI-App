@@ -2,6 +2,8 @@
 
 **Objective:** To deploy the DeepSeek LLM 7B Chat model on CUDOS Intercloud and create a web interface for interacting with it.
 
+In depth guide: [AI Chat App Using DeepSeek OLM](https://medium.com/@cryptogrowthmarketer/ai-chat-app-using-deepseek-olm-hosted-on-cudos-intercloud-f9ca3a3c4291)
+
 ## 1. VM Setup on CUDOS Intercloud
 
 * **VM Specs:**
