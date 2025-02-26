@@ -1,11 +1,11 @@
 import React from 'react';
-import LLMInterface from './LLMInterface'; // Import your component
+import LLMInterface from './LLMInterface';
 
 function App() {
   return (
     <div className="App">
-      <h1>DeepSeek LLM Interface</h1>
-      <LLMInterface /> {/* Use the component */}
+      <h1>Cudos DeepSeek LLM Chat</h1>
+      <LLMInterface />
     </div>
   );
 }
