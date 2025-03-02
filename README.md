@@ -134,6 +134,3 @@ if __name__ == '__main__':
 * **Functionality:**
     * The application is functional and generates responses using the DeepSeek LLM 7B Chat model.
     * It runs on the CPU, resulting in slower response times.
-* **GPU Configuration:**
-    * GPU acceleration is not currently configured.
-    * The application is running on CPU.
