@@ -33,6 +33,6 @@ How to build something like this: [AI Chat App Using DeepSeek OLM](https://mediu
    **Open `http://localhost:3000/`**
 
 ## Stack:
-* React (Frontend)
-* Python (To interact with model on CUDOS intercloud)
-* Git
+* Python (To Load the DeepSeek LLM 7B Chat model deployed on CUDOS Intercloud and provide an API endpoint)
+* React (To interact with the model on CUDOS Intercloud)
+* Git (To host application code)
